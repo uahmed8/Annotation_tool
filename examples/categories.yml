@@ -1,0 +1,27 @@
+- name: person
+- name: rider
+- name: car
+- name: truck
+- name: bus
+- name: train
+- name: motor
+- name: bicycle
+- name: rickshaw
+- name: rehri
+- name: donkey_vehicle
+- name: caravan
+- name: trailer
+- name: traffic sign
+- name: traffic light
+- name: pole
+- name: pole group
+- name: wall
+- name: fence
+- name: vegetation
+- name: terrain
+- name: animal
+- name: speed breaker
+- name: rail track
+
+
+
